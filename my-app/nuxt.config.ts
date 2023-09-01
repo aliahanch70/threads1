@@ -1,4 +1,4 @@
-// https://nuxt.com/docs/api/configuration/nuxt-config
+// https://nuxt.com/docs/api/configuration/nuxt-configv
 export default defineNuxtConfig({
   devtools: {enabled: true},
   modules: [
@@ -13,5 +13,4 @@ export default defineNuxtConfig({
   //     bucketUrl: process.env.BUCKET_URL
   //   }
   // },
-  // pages: true,
 })
